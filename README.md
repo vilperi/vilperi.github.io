@@ -11,5 +11,5 @@ Live [here](https://helsinki-spots.onrender.com/map)
 [https://github.com/vilperi/FullStackOpen](https://github.com/vilperi/FullStackOpen)
 - Most versatile course on modern web development I have done.
 
-## Blog from a bachelor's GIS-course.
+### Blog from a Bachelor's level GIS-course.
 [https://blogs.helsinki.fi/radvili/](https://blogs.helsinki.fi/radvili/)
