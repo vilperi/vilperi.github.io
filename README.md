@@ -8,5 +8,8 @@
 Live [here](https://helsinki-spots.onrender.com/map)
 
 ### FullStackOpen
-https://github.com/vilperi/FullStackOpen
+[https://github.com/vilperi/FullStackOpen](https://github.com/vilperi/FullStackOpen)
 - Most versatile course on modern web development I have done.
+
+## Blog from a bachelor's GIS-course.
+[https://blogs.helsinki.fi/radvili/](https://blogs.helsinki.fi/radvili/)
